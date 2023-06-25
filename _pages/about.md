@@ -17,12 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-BS in Computer Science and Chemistry at UIUC '22 🧪 + 💻
-Currently in MSCS student at UIUC
+BS in Computer Science and Chemistry '22 🧪 + 💻
+Currently in MSCS student at UIUC 👩‍💻
 
-Hey there! I hope you are having a great day! My name is Weijiang Li, or I can also go by Vicky. 
-
-Currently working with Professor [Mohamed El-Kebir](https://www.el-kebir.net/) at [UIUC](https://cs.illinois.edu/) and Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/). 
+Hey there! I hope you are having a great day! My name is Weijiang Li, or I can also go by Vicky. Currently a second-year MS student at U of I, where I also did my undergrad here. I have experience working on NLP in the chemistry domain, and I am exploring bioinformatics/biomedical informatics with my MS thesis advisors Professor [Mohamed El-Kebir](https://www.el-kebir.net/) at [UIUC](https://cs.illinois.edu/) and Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/). 
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
