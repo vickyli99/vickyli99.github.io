@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Undergraduate student at UIUC # the website title (if blank, full name will be used instead)
-first_name: Weijiang(Vicky)
+title:  Weijiang Li
+first_name: Weijiang
 middle_name:
 last_name: Li
 email: wl13@illinois.edu 
@@ -49,10 +49,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: vickyli99
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/weijiang-li-3b44b1177/ # your LinkedIn user name
+linkedin_username: weijiang-li-3b44b1177 # your LinkedIn user name
 scholar_userid: eJ6evPwAAAAJ&hl
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
