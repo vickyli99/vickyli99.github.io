@@ -17,7 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-MSCS student at UIUC 🧪 + 💻 
+BS in Computer Science and Chemistry at UIUC '22 🧪 + 💻
+Currently in MSCS student at UIUC
+
+Hey there! I hope you are having a great day! My name is Weijiang Li, or I can also go by Vicky. 
 
 Currently working with Professor [Mohamed El-Kebir](https://www.el-kebir.net/) at [UIUC](https://cs.illinois.edu/) and Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/). 
 

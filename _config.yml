@@ -180,8 +180,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Li
+  first_name: Weijiang
 
   style: apa
   locale: en
