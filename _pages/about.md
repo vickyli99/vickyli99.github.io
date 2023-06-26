@@ -21,7 +21,7 @@ BS in Computer Science and Chemistry '22 🧪 + 💻\
 MS in Computer Science expected '24 👩‍💻
 
 Hey there! I hope you are having a great day! My name is Weijiang Li. \
-I did my undergrad at UIUC and I'm continuing as a second-year MSCS student. I have experience working on NLP projects in the chemistry domain, and I am currently exploring topics in bioinformatics/biomedical informatics with my MS thesis advisors Professor [Mohamed El-Kebir](https://www.el-kebir.net/) at [UIUC](https://cs.illinois.edu/) and Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/). 
+I did my undergrad at UIUC and I'm continuing as a second-year MSCS student. I have experience in working on NLP projects in the chemistry domain, and I am currently exploring topics in bioinformatics/biomedical informatics with my MS thesis advisors Professor [Mohamed El-Kebir](https://www.el-kebir.net/) at [UIUC](https://cs.illinois.edu/) and Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/). 
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
