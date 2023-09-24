@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  Weijiang Li
+title: Weijiang Li
 first_name: Weijiang
 middle_name:
 last_name: Li
 email: wl13@illinois.edu 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  personal website for Weijiang Li
+  I'm an MSCS student at UIUC and an RA at BWH/HMS with a Bachelor's degree in Computer Science and Chemistry.
 footer_text: > 
   
 
