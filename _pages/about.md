@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 BS in Computer Science and Chemistry '22 🧪 + 💻\
 MS in Computer Science expected '24 👩‍💻
 
-Hey there! 
+Hey there! \
 I hope you are having a great day! My name is Weijiang Li(李玮江). \
 I did my undergrad at UIUC and I'm continuing as a second-year Master's student. During my junior and senior year, I worked on NLP projects in the chemistry domain with Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [MMLI](https://moleculemaker.org/). I am currently working on topics in bio/biomedical informatics with my advisor Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/).  
 
