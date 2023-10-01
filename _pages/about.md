@@ -6,7 +6,7 @@ description: <a href="https://cs.illinois.edu/">CS@Illinois</a>
 
 profile:
   align: right
-  image: graduation.jpg
+  image: graduation.JPG
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
