@@ -6,7 +6,7 @@ description: <a href="https://cs.illinois.edu/">CS@Illinois</a>
 
 profile:
   align: right
-  image: graduation.JPG
+  image: graduation_updated.JPG
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 BS in Computer Science and Chemistry '22 🧪 + 💻\
-MS in Computer Science expected '24 👩‍💻
+MS in Computer Science '23 👩‍💻
 
 Hey there! \
 I hope you are having a great day! My name is Weijiang Li(李玮江). \
