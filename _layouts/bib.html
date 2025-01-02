@@ -16,12 +16,18 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title">{{entry.title}}</div>
+      <div class="title">
+        {% if entry.url %}
+          <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+        {% else %}
+          {{ entry.title }}
+        {% endif %}
+      </div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
-            {% if site.scholar.first_name contains author.first%}
+          {% if author.last == site.scholar.last_name %}
+            {% if site.scholar.first_name contains author.first %}
               {% assign author_is_self = true %}
             {% endif %}
           {% endif %}
