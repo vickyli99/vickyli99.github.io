@@ -27,6 +27,8 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+    - name: Install ImageMagick
+      run: sudo apt-get install imagemagick libmagickwand-dev
     - name: Install deps
       run: |
         gem install bundler
