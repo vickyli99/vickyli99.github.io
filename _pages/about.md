@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[My CV](https://vickyli99.github.io/assets/pdf/CV_2024.pdf)\
+[My CV](https://vickyli99.github.io/assets/pdf/CV_2025.pdf)\
 BS in Computer Science and Chemistry '22 🧪 \
 Master's in Computer Science '23 👩‍💻 
 
