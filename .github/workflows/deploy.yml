@@ -28,7 +28,9 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
     - name: Install ImageMagick
-      run: sudo apt-get install imagemagick libmagickwand-dev
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick libmagickwand-dev
     - name: Install deps
       run: |
         gem install bundler
