@@ -17,16 +17,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 [My CV](https://vickyli99.github.io/assets/pdf/CV_2025.pdf)\
-BS in Computer Science and Chemistry '22 🧪 \
-Master's in Computer Science '23 👩‍💻 
+BS in Computer Science and Chemistry '22 \
+Master's in Computer Science '23 \
+PhD in Computer Science 
 
 
 Hey there! \
 I hope you are having a great day! My name is Weijiang Li (李玮江). 
 
-I will be joining Notre Dame in Spring 2026 as a CS PhD student. 
+I am currently a CS PhD student at Notre Dame, working with [Professor Jiang Meng](http://www.meng-jiang.com/) on generative models for molecules. 
 
-I am currently working on projects for accessing and evaluating genetic variant pathogenicity with my advisor Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/) and [BWH](https://bwhgenetics.org/). 
+I did a two-year RA, working on projects for accessing and evaluating genetic variant pathogenicity with my advisor Professor [Chris Cassa](http://genetics.bwh.harvard.edu/wiki/cassa/) at [HMS](https://dms.hms.harvard.edu/) and [BWH](https://bwhgenetics.org/). 
 
 I did my undergrad and master's at UIUC, where I worked on a HCI project with Professor [Koustuv Saha](https://koustuv.com/) and NLP and representation learning projects in the chemistry domain with Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at [MMLI](https://moleculemaker.org/). 
 
