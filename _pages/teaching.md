@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching Assistant at CS@Illinois👩‍🏫 
+description:
 nav: true
 ---
 
